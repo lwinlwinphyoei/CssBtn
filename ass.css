@@ -1,0 +1,147 @@
+.container{
+    padding-inline-start: 10px;
+    color: white;
+    padding: 10px;
+    
+    
+}
+.b1{
+    background-color: aqua;
+    color: white;
+    border: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 20px;
+}
+.b2{
+    color: white;
+    background-color:darkgrey;
+    border: darkgray;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 20px;
+}
+
+.b3{
+    color: white;
+    background-color: rgb(59, 187, 134);
+    border: rgb(59, 187, 134) ;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 20px;
+}
+
+.b4{
+    color: white;
+    background-color: rgb(49, 49, 148);
+    border:rgb(49, 49, 148) ;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 20px;
+}
+
+.b5{
+    color: white;
+    background-color: yellow;
+    border: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 20px;
+}
+
+.b6{
+    color: white;
+    background-color: red;
+    border: red;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 20px;
+}
+
+.b7{
+    color: white;
+    background-color: rgb(47, 190, 155);
+    border-radius: 50px;
+    border: rgb(47, 190, 155);
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 20px;
+}
+
+.b8{
+    width: 40px;
+    height: 40px;
+    columns: white;
+    background-color: aqua;
+    border-radius: 20px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    border: none;
+    margin-right: 20px;
+}
+.b9{
+    color: white;
+    background-color: aqua;
+    text-align: center;
+    border: none;
+    margin-right: 20px;
+}
+.b10{
+    color: black;
+    border: none;
+    border-style: dotted;
+    margin-right: 20px;
+    
+}
+.b11{
+    color: white;
+    background-color: aquamarine;
+    border: none;
+    margin-right: 20px;
+}
+.b12{
+    color: white;
+    background-color: aquamarine;
+    border: none;
+    margin-right: 20px;
+}
+.b12{
+    color: white;
+    background-color: aquamarine;
+    border: none;
+    margin-right: 20px;
+}
+.b14{
+    color: black;
+    background-color: white;
+    border: rgb(51, 40, 40);
+    margin-right: 20px;
+}
+.b15{
+    color: white;
+    background-color: aquamarine;
+    border: none;
+    margin-right: 20px;
+}
+.a1{
+
+    margin-right: 20px;
+}
+.a2{
+    margin-right: 20px;
+}
+.a3{
+    color: white;
+    background-color: aquamarine;
+    border: none;
+    margin-right: 20px;
+}
+.a4{
+    color: white;
+    background-color: aquamarine;
+    border-radius: 50px;
+    border: rgb(47, 190, 155);
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 20px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    margin-left: 2px;
+    margin-right: 2px;
+    text-justify: auto;
+}
